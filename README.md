@@ -1,21 +1,12 @@
-# 028 Grid Layout
+# 001 Comments
 
-[![028 Grid Layout](https://img.youtube.com/vi/8U8jRi7lsfw/0.jpg)](https://www.youtube.com/watch?v=8U8jRi7lsfw)
+[![001 Comments](https://img.youtube.com/vi/fH7Fx-tlfxU/0.jpg)](https://www.youtube.com/watch?v=fH7Fx-tlfxU)
 
-The `index.html` file
-- should add styling so that the first-item grid area is named header
-- should add styling so that the second-item grid area is named leftNav
-- should add styling so that the third-item grid area is named main
-- should add styling so that the grid-container grid area is displayed as a grid
-- should add styling so that the grid-container grid area has a 10px gap
-- should add styling so that the grid-container grid area has a left navigation bar that extends vertially across the first and second row of the grid
-- should add styling so that the grid-container grid area has a header that extends horizontally across the top row
-- should add styling so that the grid-container grid area has a header that is twice the width of the left navigation bar
-- should add styling so that the grid-container grid area has a main section that extends horizontally across the second row
-- should add styling so that the grid-container grid area has a main section that is twice the width of the left navigation bar
+the javascript in the script element
+- should contain a single line comment that comments out line 14  (total = total - 2;)
+- should contain a multi-line comment that comments out lines 16, 17 and 18 (`total = total - 4;`, `total = total - 5;` and `total = total - 6;`)
+- should set the result element to 39
 
-Resources:
-- https://www.w3schools.com/css/css_grid.asp
+resources:
 
-Building toward CSTA Standards:
-- Develop programs for multiple computing platforms. (3B-AP-19) https://www.csteachers.org/page/standards
+https://www.w3schools.com/js/js_comments.asp
